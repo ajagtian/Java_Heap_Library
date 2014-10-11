@@ -12,7 +12,7 @@ For a verbose library, one should use Java Collections interface.
 
 <pre>
 	1.) import the Heap.class in you file.
-	2.) use the api provide
+	2.) use the api provided
 		2.1) insert
 		2.2) findMin
 		2.3) extractMin
