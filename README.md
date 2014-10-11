@@ -23,5 +23,5 @@ For a verbose library, one should use Java Collections interface.
 
 
 <b>
-Priority queues in graph algorithms - Kruskals, enhanced DFS/BFS...
+Applications -> Priority queues in graph algorithms - Kruskals, enhanced DFS/BFS...
 </b>
