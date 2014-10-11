@@ -1,7 +1,7 @@
 <i>Heaps Library - utility for other macro level operations on graphs</i>
 =======================
 
-Contains a simple Heap implementation ini Java. Can be used to implement priority queues 
+Contains a simple Heap implementation in Java. Can be used to implement priority queues 
 in the algorithms pertaining to large graphs. 
 
 This library is custom to graphs and thus is lightweight.
